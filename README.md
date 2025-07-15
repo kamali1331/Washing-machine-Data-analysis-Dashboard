@@ -26,6 +26,6 @@
 ## 📌 Conclusion
 ## The Washing Machine Data Analysis Dashboard is a powerful tool that transforms raw data into actionable insights. It helps organizations stay competitive by making informed decisions, improving product performance, enhancing customer satisfaction, and driving sustainable practices — all through the power of analytics with Looker Studio.
 
-## Image link : file:///C:/Users/kamal/Downloads/Washing_Machine_Data_Analysis_Dashboard.pdf
+
 
 
